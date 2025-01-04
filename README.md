@@ -14,10 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
 <p align="center">
   <a href="https://app.daily.dev/DailyDevTips">
     <img src="https://github.com/MananJain-IITJ/MananJain-IITJ/blob/main/devcard.svg" width="400" alt="Manan's Dev Card"/>
   </a>
 </p>
+-->
 
 [![An image of @mananjainiitj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mananjainiitj)](https://holopin.io/@mananjainiitj)
